@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    border: 4px solid;
+    height: 50vh;
+    width: 100vh;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+pre{
+    font-size: xx-large;
+    font-style: italic;
+    margin-top: 17%;
+}
